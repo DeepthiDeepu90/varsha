@@ -16,6 +16,7 @@ script {
 // Your test commands here
 //sh 'mvn test' // Example for Maven test
 echo 'mvn test'
+  //thft
 } }
 }
 stage('Artifact') { steps {
